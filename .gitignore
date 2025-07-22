@@ -1,0 +1,11 @@
+# macOS Finder metadata
+.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
