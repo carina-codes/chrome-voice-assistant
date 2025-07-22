@@ -19,7 +19,7 @@ Until it’s published on the Chrome Web Store, you can load it manually:
 
 1️⃣ Download or clone this repository:
 ```bash
-git clone https://github.com/your-username/chrome-voice-assistant.git
+git clone https://github.com/carina-codes/chrome-voice-assistant.git
 ```
 
 2️⃣ Open Chrome, and go to:  
