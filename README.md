@@ -86,7 +86,7 @@ This project is open to contributions!
 ---
 
 ## 📎 Links
-📂 [Download or Clone the Repo](https://github.com/your-username/chrome-voice-assistant)  
+📂 [Download or Clone the Repo](https://github.com/carina-codes/chrome-voice-assistant)  
 🛠️ [Chrome Extensions Guide](https://developer.chrome.com/docs/extensions/)  
 
 When it’s ready to publish, we can also add a **Chrome Web Store link here**.
